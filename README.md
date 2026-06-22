@@ -49,13 +49,7 @@ I'm comfortable across the stack and enjoy picking up whatever the project needs
 - Active in **ACM, CSI and Microsoft Technical Community (MTC)** at UPES
 - Postman API Fundamentals Student Expert
 - Open to contributing to **hackathons and open-source projects** - feel free to reach out!
-
----
-
-## Daily activity
-
-Check out my [daily work log](https://github.com/ParthGarg7) for what I'm building day to day.
-
+  
 ---
 
 ## Connect
